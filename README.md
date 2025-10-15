@@ -5,7 +5,7 @@
   </a> 
   </td>
  <td>
-Like my badge?
-<a href="https://badges.layer5.io">Get your own badge, too</a>!
+Like my badge? <br />
+<a href="https://badges.layer5.io">Get your own badge, too!</a>
 </td></tr>
 <table>
